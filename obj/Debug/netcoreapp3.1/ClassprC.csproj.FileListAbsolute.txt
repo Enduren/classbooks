@@ -1,0 +1,13 @@
+C:\Users\dtenn\Desktop\SoloC#\ClassprC\ClassprC\bin\Debug\netcoreapp3.1\ClassprC.exe
+C:\Users\dtenn\Desktop\SoloC#\ClassprC\ClassprC\bin\Debug\netcoreapp3.1\ClassprC.deps.json
+C:\Users\dtenn\Desktop\SoloC#\ClassprC\ClassprC\bin\Debug\netcoreapp3.1\ClassprC.runtimeconfig.json
+C:\Users\dtenn\Desktop\SoloC#\ClassprC\ClassprC\bin\Debug\netcoreapp3.1\ClassprC.runtimeconfig.dev.json
+C:\Users\dtenn\Desktop\SoloC#\ClassprC\ClassprC\bin\Debug\netcoreapp3.1\ClassprC.dll
+C:\Users\dtenn\Desktop\SoloC#\ClassprC\ClassprC\bin\Debug\netcoreapp3.1\ClassprC.pdb
+C:\Users\dtenn\Desktop\SoloC#\ClassprC\ClassprC\obj\Debug\netcoreapp3.1\ClassprC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dtenn\Desktop\SoloC#\ClassprC\ClassprC\obj\Debug\netcoreapp3.1\ClassprC.AssemblyInfoInputs.cache
+C:\Users\dtenn\Desktop\SoloC#\ClassprC\ClassprC\obj\Debug\netcoreapp3.1\ClassprC.AssemblyInfo.cs
+C:\Users\dtenn\Desktop\SoloC#\ClassprC\ClassprC\obj\Debug\netcoreapp3.1\ClassprC.csproj.CoreCompileInputs.cache
+C:\Users\dtenn\Desktop\SoloC#\ClassprC\ClassprC\obj\Debug\netcoreapp3.1\ClassprC.dll
+C:\Users\dtenn\Desktop\SoloC#\ClassprC\ClassprC\obj\Debug\netcoreapp3.1\ClassprC.pdb
+C:\Users\dtenn\Desktop\SoloC#\ClassprC\ClassprC\obj\Debug\netcoreapp3.1\ClassprC.genruntimeconfig.cache
